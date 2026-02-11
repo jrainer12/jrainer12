@@ -83,9 +83,11 @@ Continuously evolve a production-grade platform to experiment with emerging patt
 
 #### DevOps / Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-orange?style=for-the-badge&logo=argo)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Observability / Scaling
+#### Observability / Reliability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
 ![KEDA](https://img.shields.io/badge/KEDA-purple?style=for-the-badge&logo=kubernetes)
