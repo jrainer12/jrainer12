@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josef Rainer</h1>
+<h1 align="center">Hi, I'm Josef Rainer</h1>
 <h3 align="center">Senior Platform / SRE Engineer | Kubernetes | Cloud Infrastructure | Reliability</h3>
 
 <p align="center">
