@@ -65,9 +65,8 @@ Stack includes:
 - Kubernetes (OCI)
 - KEDA autoscaling
 - Prometheus + Grafana + Tempo
-- Traefik / Gateway API
+- Gateway API
 - Terraform infrastructure
-- Datadog
 
 **Goal:**  
 Continuously evolve a production-grade platform to experiment with emerging patterns and showcase real-world architecture.
