@@ -17,7 +17,7 @@ Currently working heavily across:
 
 ✅ Kubernetes platform engineering  
 ✅ Cloud infrastructure (Azure + multi-cloud exposure)  
-✅ CI/CD 
+✅ CI/CD </br>
 ✅ Observability and reliability design  
 ✅ Distributed system architecture  
 
